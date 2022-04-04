@@ -1,6 +1,7 @@
 ### Hi there 👋
 
   🌱 I’m currently learning Software Engineering
+  
   📫 How to reach me: vukasin.dragovic5@gmail.com
 
 <!--
