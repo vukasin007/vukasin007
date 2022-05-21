@@ -2,7 +2,7 @@
 
  - 🌱 I’m currently learning Software Engineering
   
- - 📫 How to reach me: vukasin.dragovic5@gmail.com
+ - 📫 How to reach me: 
 
 <!--
 **vukasin007/vukasin007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
